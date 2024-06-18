@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://imgur.com/jdDndGl.png" alt="MasterHead">
+  <img src="#" alt="MasterHead">
 </p>
 
 <h1 align="center">Hi 👋, I'm Thamindu Vimansha</h1>
