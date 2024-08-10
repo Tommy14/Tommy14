@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Thamindu Vimansha</h1>
+<h1 align="center">Hi 👋, I'm Thamindu Vimansha (IT22003546)</h1>
 <h3 align="center">A Software Engineering undergraduate from Sri Lanka Institute of Information Technology (SLIIT)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tomy14&label=Profile%20views&color=0e75b6&style=flat" alt="tomy14" /> </p>
